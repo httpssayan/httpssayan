@@ -48,17 +48,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=httpssayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=httpssayan&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=httpssayan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=httpssayan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-
 
 ---
 
@@ -85,7 +77,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="https://www.linkedin.com/in/sayan-jana-aiml/">
+  <a href="https://www.linkedin.com/in/sayan-jana-aiml/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:sayan5564jana@gmail.com">
